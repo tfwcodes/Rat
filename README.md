@@ -4,6 +4,8 @@
 
 This is a simple but powerful rat made in c#.
 
+The client runs in the background and it automatically copies it self to the startup.
+
 <h2>Modules 🧰</h2>
 
 ```text
