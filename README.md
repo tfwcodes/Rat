@@ -6,7 +6,7 @@ This is a simple but powerful rat made in c#.
 
 The client runs in the background and it automatically copies it self to the startup.
 
-If you want to run it correctly you will need to publish it in a single-file format.
+If you want to run it correctly you will need to publish it in a single-file format otherwise you will need to remove the part where it copies to the startup.
 
 <h2>Modules 🧰</h2>
 
